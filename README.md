@@ -7,6 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Description
+This is a sample project that implements the Laravel Framework.
+
+It includes the implementation of various features, such as: 
+- Relationships
+- Factories
+- Migrations
+- Seeders
+- Blade Views
+
+
 ## Commands
 
 In order to test this project, config the .env file and run the next commands:

@@ -11,6 +11,7 @@
         <div class="container">
             <h1 class="text-center mt-4 text-white">Eloquent</h1>
             <h5 class="text-center text-secondary">Relaciones</h5>
+            <h6 class="text-center text-light">Listado de usuarios</h6>
             <ul class="list-group mt-4">
                 @forelse ($users as $item)
                     <a href="{{ route('profile',$item->id) }}" class="list-group-item list-group-item-action list-group-item-secondary">
